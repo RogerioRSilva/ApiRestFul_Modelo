@@ -6,7 +6,7 @@ Criação de uma API Resful modelo para consultas e futuras
 
 ### Diagrama de classes 
 
-*[Mermaid DOCs](https://mermaid.js.org/)
+[Mermaid DOCs](https://mermaid.js.org/)
 
 ```mermaid
 classDiagram
