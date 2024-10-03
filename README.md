@@ -2,7 +2,7 @@
 Criação de uma API Resful modelo para consultas e futuras
 
 
-## Projeto retirado do Santander Dev Week 
+## 🚀 Projeto criado no Santander Dev Week 
 
 ### Diagrama de classes 
 
