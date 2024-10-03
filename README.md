@@ -2,7 +2,7 @@
 Criação de uma API Resful modelo para consultas e futuras
 
 
-## 🚀 Projeto criado no Santander Dev Week 2023 - BootCamp DIO.ME
+## 🚀 Projeto criado referente ao Santander Dev Week 2023 - BootCamp DIO.ME
 
 <br><br>
 
