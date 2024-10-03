@@ -23,6 +23,8 @@ Criação de uma API Resful modelo para consultas e futuras
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
+<br><br>
+
 ### Diagrama de classes 
 
 [Mermaid DOCs](https://mermaid.js.org/intro/)
