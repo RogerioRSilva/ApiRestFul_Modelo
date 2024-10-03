@@ -1,2 +1,2 @@
 # ApiRestFull_Modelo
-Criação de uma API Resfull modelo para consultas e futuras
+Criação de uma API Resful modelo para consultas e futuras
