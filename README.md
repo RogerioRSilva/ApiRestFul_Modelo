@@ -4,6 +4,9 @@ Criação de uma API Resful modelo para consultas e futuras
 
 ## Projeto retirado do Santander Dev Week 
 
+### Diagrama de classes 
+
+```
 classDiagram
     class User {
         +String name
@@ -39,3 +42,5 @@ classDiagram
     User --> Feature
     User --> Card
     User --> News
+
+```
