@@ -1,5 +1,5 @@
 # ApiRestFull_Modelo
-Criação de uma API Resful modelo para consultas e futuras
+Criação de uma API Resful modelo para consultas e estudos(POC).
 
 
 ## 🚀 Projeto criado referente ao Santander Dev Week 2023 - BootCamp DIO.ME
