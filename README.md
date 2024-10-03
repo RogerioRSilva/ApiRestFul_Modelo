@@ -71,7 +71,7 @@ classDiagram
 
 ## 🖥️ Open API (Swagger)
 
-[API Swagger Open API ](http://localhost:8080/swagger-ui/index.html#/)
+* http://localhost:8080/swagger-ui/index.html#/
 
 ![Print da tela do Swagger com a API que estamos estudando](api-rest-modelo/docs/Captura%20de%20tela%202024-10-03%20164115.png)
 
