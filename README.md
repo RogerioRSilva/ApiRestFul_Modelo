@@ -40,9 +40,9 @@ classDiagram
         +String description
     }
 
-    User --> Account
-    User --> Feature
-    User --> Card
-    User --> News
+    User *-- Account
+    User *-- Feature
+    User *-- Card
+    User *-- News
 
 ```
