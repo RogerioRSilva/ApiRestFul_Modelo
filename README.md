@@ -6,7 +6,7 @@ Criação de uma API Resful modelo para consultas e futuras
 
 ### Diagrama de classes 
 
-```
+```mermaid
 classDiagram
     class User {
         +String name
