@@ -6,7 +6,7 @@ Criação de uma API Resful modelo para consultas e futuras
 
 <br><br>
 
-## Tecnologias Utilizadas
+## 🕵️ Tecnologias Utilizadas
 
 <br>
 
